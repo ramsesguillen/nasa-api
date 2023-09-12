@@ -1,8 +1,21 @@
-# React + Vite
+# Prueba técnica React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Instalar dependencias
+```
+npm install o yarn
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Levantar aplicación
+```
+npm run dev
+yarn run dev
+```
+
+
+Generar bundle de producción
+```
+npm build
+yarn build
+```
