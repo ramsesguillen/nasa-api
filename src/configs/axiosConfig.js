@@ -6,9 +6,7 @@ import axios from "axios";
 export const headersDefault = () => ({
 	'X-Requested-With': 'XMLHttpRequest',
 	'Accept': 'application/json',
-	'Content-Type': 'application/json',
-  "Referer": "https://api.nasa.gov/planetary/apod",
-  "Referrer-Policy": "unsafe_url"
+	'Content-Type': 'application/json'
 });
 
 
